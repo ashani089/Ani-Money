@@ -13,6 +13,7 @@ public class InputJsonParserUtil {
 	 * @return
 	 */
 	public static AMoney parseInput(String input) {
+		String a="";
 		return null;
 	}
 }
